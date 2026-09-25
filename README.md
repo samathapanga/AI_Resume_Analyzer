@@ -10,6 +10,10 @@ Users can upload their resume as a PDF and paste a Job Description. The applicat
 
 The application then generates a detailed analysis and calculates an overall Resume–JD Match Score.
 
+## 📸 Application Screenshot
+
+![AI Resume Analyzer](screenshots/resume_analyzer_1.png,resume_analyzer_2.png)
+
 ## ✨ Features
 
 - 📄 Upload resume in PDF format
